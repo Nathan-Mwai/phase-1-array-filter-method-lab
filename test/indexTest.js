@@ -3,7 +3,7 @@ require ( './helpers.js' );
 const sinon = require( 'sinon' )
 
 describe('index.js', function () {
-  describe('findMatching()', function () {
+  describe('fingit@github.com:Nathan-Mwai/phase-1-array-filter-method-lab.gitdMatching()', function () {
     it('returns all drivers that match the passed in name', function () {
       const drivers = ['Bobby', 'Sammy', 'Sally', 'Annette', 'Sarah', 'Bobby']
 
